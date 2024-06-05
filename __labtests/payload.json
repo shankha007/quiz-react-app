@@ -1,0 +1,79 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1711379040319,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 4 correct",
+          "status": "passed",
+          "title": "4 correct",
+          "duration": 48,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 3 correct",
+          "status": "passed",
+          "title": "3 correct",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 2 correct",
+          "status": "passed",
+          "title": "2 correct",
+          "duration": 12,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 1 correct",
+          "status": "passed",
+          "title": "1 correct",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 1 correct",
+          "status": "passed",
+          "title": "1 correct",
+          "duration": 6,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1711379042307,
+      "endTime": 1711379042407,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/__labtests/reactcheck.test.jsx"
+    }
+  ]
+}
